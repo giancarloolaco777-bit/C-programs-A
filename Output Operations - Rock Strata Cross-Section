@@ -1,0 +1,12 @@
+#include <stdio.h>
+
+int main(void) {
+    printf("      Sandstone\n");
+    printf("    Limestone\n");
+    printf("  Granite\n");
+    printf("  Basalt\n");
+    printf("    Quartzite\n");
+    printf("      Shale\n");
+
+    return 0;
+}
